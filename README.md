@@ -53,4 +53,4 @@ using **Random Forest** and **Streamlit**.
 ## To Clone this Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stress-level-predictor.git
+git clone https://github.com/shreeshtjagga/stress-level-predictor.git
